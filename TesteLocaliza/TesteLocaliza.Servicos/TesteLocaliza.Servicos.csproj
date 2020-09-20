@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TesteLocaliza.Comum\TesteLocaliza.Comum.csproj" />
+    <ProjectReference Include="..\TesteLocaliza.Interfaces\TesteLocaliza.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>
